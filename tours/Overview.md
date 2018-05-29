@@ -1,4 +1,4 @@
-> ### Overview  
+> # Tour - Overview  
 > A high-level overview of this NARS implementation 
 
 ***
@@ -35,11 +35,11 @@ At the current time, the most comprehensive description of NARS are the books [R
 
 Beginners may be interested in the following documents. First, a collection of 'Tours' describing core components of the system and their implementation. 
 
-* [Plugin System](tours/Plugins.md)
+* [Plugin System](PluginSystem.md)
 
-* [Following A Statement](tours/FollowStatement.md)
+* [Following A Statement](FollowStatement.md)
 
-* [Interacting with a GUI](tours/GUIs.md)
+* [Interacting with a GUI](GUIs.md)
 
 In addition, the following online materials cover the theory behind NARS, as well as some more in depth descriptions of the control logic.
 
